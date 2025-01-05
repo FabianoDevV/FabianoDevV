@@ -86,7 +86,7 @@ Minha abordagem tem design moderno e boas práticas de programação para entreg
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="150" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianoDevV&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=1800"
   />
 
