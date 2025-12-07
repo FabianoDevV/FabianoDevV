@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Fabiano soares
+# 👩🏻‍💻 Fabiano Soares
 
 **`Desenvolvedor júnior front-end`**
 
