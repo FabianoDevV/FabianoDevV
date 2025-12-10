@@ -2,7 +2,7 @@
 
 **`Desenvolvedor júnior front-end`**
 
-Sou Fabiano Soares, desenvolvedor front-end júnior , apaixonado por transformar ideias em interfaces interativas. Com uma base sólida em back-end e automação, dedico-me a criar soluções visuais e funcionais que proporcionem uma experiência única e impactante para os usuários.
+Sou Fabiano Soares, desenvolvedor front-end , apaixonado por transformar ideias em interfaces interativas. Com uma base sólida em back-end e automação, dedico-me a criar soluções visuais e funcionais que proporcionem uma experiência única e impactante para os usuários.
 Minha abordagem tem design moderno e boas práticas de programação para entregar interfaces intuitivas, acessíveis e responsivas. Estou em constante evolução, aprendendo novas tecnologias e aprimorando minhas habilidades para contribuir com projetos que unem criatividade e tecnologia de ponta. [portfólio](https://www.fabianodeveloper.xyz/).
 
 ---
