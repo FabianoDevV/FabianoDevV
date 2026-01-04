@@ -78,7 +78,8 @@ Curto código limpo, decisões visuais bem pensadas e produtos que não precisam
 <table>
   <tr style="
     display: flex;
-    align-items: flex-start;">
+    align-items: flex-start;
+    border: none;">
     <td>
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=FabianodevV&theme=tokyonight&border_color=51A4E2" />
     </td>
