@@ -80,10 +80,10 @@ Curto código limpo, decisões visuais bem pensadas e produtos que não precisam
     display: flex;
     align-items: flex-start;
     border: none;">
-    <td>
+    <td style='border: 0;'>
       <img src="https://github-readme-stats-one-bice.vercel.app/api?username=FabianodevV&theme=tokyonight&border_color=51A4E2" />
     </td>
-    <td>
+    <td style='border: 0;'>
       <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FabianodevV&layout=compact&theme=tokyonight&border_color=51A4E2" />
     </td>
   </tr>
