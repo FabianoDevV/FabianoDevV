@@ -75,27 +75,15 @@ Curto código limpo, decisões visuais bem pensadas e produtos que não precisam
 
 ### 🔹 Estatísticas
 
-<div style="display: flex;">
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px; 
-    max-width: 100%;
-    height: auto;
-    max-height: 200px;" 
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=FabianodevV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_color=51A4E2" 
-  />
-
-<img 
-    align="left"
-    alt="GitHub Stats" 
-    height="150" 
-    style="
-    max-width: 100%;
-    height: auto;
-    /* max-height: 200px;"
-    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FabianodevV&layout=compact&theme=tokyonight&border_color=51A4E2"
-/>
-
-</div>
+<table>
+  <tr style="
+    display: flex;
+    align-items: flex-start;">
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=FabianodevV&theme=tokyonight&border_color=51A4E2" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FabianodevV&layout=compact&theme=tokyonight&border_color=51A4E2" />
+    </td>
+  </tr>
+</table>
