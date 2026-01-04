@@ -81,13 +81,14 @@ Curto código limpo, decisões visuais bem pensadas e produtos que não precisam
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px; 
-    /* max-width: 100%; */
+    max-width: 100%;
     height: auto;
-    /* /* max-height: 200px;"  */
+    max-height: 200px;" 
     src="https://github-readme-stats-one-bice.vercel.app/api?username=FabianodevV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_color=51A4E2" 
   />
 
 <img 
+    align="left"
     alt="GitHub Stats" 
     height="150" 
     style="
