@@ -75,7 +75,7 @@ Curto código limpo, decisões visuais bem pensadas e produtos que não precisam
 
 ### 🔹 Estatísticas
 
-<table>
+<table border="0">
   <tr style="
     display: flex;
     align-items: flex-start;
