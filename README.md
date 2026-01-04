@@ -1,13 +1,13 @@
-# 👩🏻‍💻 Fabiano Soares
+# 👩🏻‍💻 Fabiano Developer
 
 **`Desenvolvedor júnior front-end`**
 
-Sou Fabiano Soares, desenvolvedor front-end , apaixonado por transformar ideias em interfaces interativas. Com uma base sólida em back-end e automação, dedico-me a criar soluções visuais e funcionais que proporcionem uma experiência única e impactante para os usuários.
-Minha abordagem tem design moderno e boas práticas de programação para entregar interfaces intuitivas, acessíveis e responsivas. Estou em constante evolução, aprendendo novas tecnologias e aprimorando minhas habilidades para contribuir com projetos que unem criatividade e tecnologia de ponta. [portfólio](https://www.fabianodeveloper.xyz/).
+Sou Fabiano Soares, Front-End Developer obcecado por interfaces bem construídas, rápidas e sem excesso. Transformo ideias em experiências visuais que fazem sentido, com foco em clareza, performance e usabilidade real.
+Curto código limpo, decisões visuais bem pensadas e produtos que não precisam de explicação pra funcionar. Estou sempre elevando meu nível técnico para criar interfaces modernas, eficientes e memoráveis. [portfólio](https://www.fabianodeveloper.com.br).
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🔹 Stack & Especialidade
 
 <img 
     align="left" 
@@ -36,58 +36,65 @@ Minha abordagem tem design moderno e boas práticas de programação para entreg
 
 <img 
     align="left" 
-    alt="Vuejs" 
-    title="vuejs"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"
-    />
-
-
-<img 
-    align="left" 
-    alt="nodejs" 
-    title="nodejs"
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" 
-/>
-
-<img 
-    align="left" 
     alt="Scss" 
     title="Scss"
     width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SCSS" 
 />
-    
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="TypeScript" 
+    title="TypeScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="React" 
+    title="React"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+/>
+
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
 />
 
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 🔹 Estatísticas
 
-<p>
+<div style="display: flex;">
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats-one-bice.vercel.app/api?username=FabianodevV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    style="padding-right: 10px; 
+    /* max-width: 100%; */
+    height: auto;
+    /* /* max-height: 200px;"  */
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=FabianodevV&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&border_color=51A4E2" 
   />
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="150" 
-      src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FabianodevV&layout=compact&theme=tokyonight"
-  />
+    alt="GitHub Stats" 
+    height="150" 
+    style="
+    max-width: 100%;
+    height: auto;
+    /* max-height: 200px;"
+    src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=FabianodevV&layout=compact&theme=tokyonight&border_color=51A4E2"
+/>
 
-</p>
+</div>
